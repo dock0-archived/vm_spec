@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-git clone git://github.com/dock0/vm_spec /opt/vm_spec \
-    --single-branch --branch $BRANCH
-dock0 install /opt/vm_spec/config.yaml
-
